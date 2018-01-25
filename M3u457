@@ -1,0 +1,95 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="Infantiles",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="Infantiles",Nick Jr
+http://200.78.215.85:8010/play/a08b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1  tvg-logo="http://televisionparatodos.tv/wp-content/uploads/2013/06/simpsonstvplay.jpg", Los Simpson Cap. Aleatorio
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="24/7", El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4/
+#EXTINF:1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:1,CANAL tnt
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:1,TNT
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:1,A3S
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SPACE HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE Y SERIES", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1605.png" group-title="CINE Y SERIES", Cine AR
+http://ar.watcha.live/ch17/hi.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="CINE Y SERIES", Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="CINE Y SERIES", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Espa&ntilde;a:LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Espa&ntilde;a:MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://k33.kn3.net/taringa/4/5/D/A/A/A/Zrogs/233.jpg" ,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1, sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+#EXTINF:-1, Ep
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1, ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="ALTERNOS", *** ALTERNOS ***
+http://ia801507.us.archive.org/12/items/apoyo_201710/apoyo.mp4
+#EXTINF:-1 group-title="ALTERNOS",AZCINEMA
+https://latamonly-lh.akamaihd.net/i/azcinema_1@571259/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",PANICO
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",TVC DEPORTES
+https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",TVC
+https://latamonly-lh.akamaihd.net/i/tvchd_1@578063/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",CINE PLATINO
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",CINE MEXICANO
+https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",MIS PELICULAS
+https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",FILM BOX ART
+https://namericalatam-lh.akamaihd.net/i/filmboxart_1@198553/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",PASIONES HD
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",AZCORAZON
+https://latamonly-lh.akamaihd.net/i/azcorazon_1@571257/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",AZCLIC
+https://latamonly-lh.akamaihd.net/i/azclick_1@571255/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",AZMUNDO
+https://latamonly-lh.akamaihd.net/i/azmundo_1@571254/master.m3u8
+#EXTINF:-1 group-title="ALTERNOS",ONCE TV
+https://latamonly-lh.akamaihd.net/i/oncetv_1@574620/master.m3u8
